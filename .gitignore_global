@@ -1,0 +1,9 @@
+# Folder view config files
+.DS_Store
+
+# Python complied files
+.pyc
+
+# Files with ~
+*~
+
